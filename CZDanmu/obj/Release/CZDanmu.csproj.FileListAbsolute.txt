@@ -1,0 +1,10 @@
+C:\Users\sunkb.CHENZHU\Desktop\CZDanmu\CZDanmu\bin\Release\CZDanmu.exe
+C:\Users\sunkb.CHENZHU\Desktop\CZDanmu\CZDanmu\bin\Release\CZDanmu.pdb
+C:\Users\sunkb.CHENZHU\Desktop\CZDanmu\CZDanmu\obj\Release\CZDanmu.DanmuMain.resources
+C:\Users\sunkb.CHENZHU\Desktop\CZDanmu\CZDanmu\obj\Release\CZDanmu.Properties.Resources.resources
+C:\Users\sunkb.CHENZHU\Desktop\CZDanmu\CZDanmu\obj\Release\CZDanmu.csproj.GenerateResource.Cache
+C:\Users\sunkb.CHENZHU\Desktop\CZDanmu\CZDanmu\obj\Release\CZDanmu.exe
+C:\Users\sunkb.CHENZHU\Desktop\CZDanmu\CZDanmu\obj\Release\CZDanmu.pdb
+C:\Users\sunkb.CHENZHU\Desktop\CZDanmu\CZDanmu\obj\Release\CZDanmu.csprojResolveAssemblyReference.cache
+D:\代码\CZDanmu\CZDanmu\obj\Release\CZDanmu.exe
+D:\代码\CZDanmu\CZDanmu\obj\Release\CZDanmu.pdb

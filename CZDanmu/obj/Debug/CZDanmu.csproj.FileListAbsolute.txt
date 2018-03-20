@@ -1,0 +1,8 @@
+C:\Users\sunkb.CHENZHU\Desktop\CZDanmu\CZDanmu\obj\Debug\CZDanmu.csprojResolveAssemblyReference.cache
+C:\Users\sunkb.CHENZHU\Desktop\CZDanmu\CZDanmu\obj\Debug\CZDanmu.DanmuMain.resources
+C:\Users\sunkb.CHENZHU\Desktop\CZDanmu\CZDanmu\obj\Debug\CZDanmu.Properties.Resources.resources
+C:\Users\sunkb.CHENZHU\Desktop\CZDanmu\CZDanmu\obj\Debug\CZDanmu.csproj.GenerateResource.Cache
+C:\Users\sunkb.CHENZHU\Desktop\CZDanmu\CZDanmu\bin\Debug\CZDanmu.exe
+C:\Users\sunkb.CHENZHU\Desktop\CZDanmu\CZDanmu\bin\Debug\CZDanmu.pdb
+C:\Users\sunkb.CHENZHU\Desktop\CZDanmu\CZDanmu\obj\Debug\CZDanmu.exe
+C:\Users\sunkb.CHENZHU\Desktop\CZDanmu\CZDanmu\obj\Debug\CZDanmu.pdb
